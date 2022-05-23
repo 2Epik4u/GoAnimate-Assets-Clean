@@ -7,9 +7,9 @@ Simply make a pull request.
 In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https://classic.wrapper.online/animation/414827163ad4eb60",
-        "STORE_URL": "https://classic.wrapper.online/store/3a981f5cb2739137",
-        "CLIENT_URL": "https://classic.wrapper.online/static/ad44370a650793d9"
+        "SWF_URL": "https://gassets.thunderzapper.xyz/animation/414827163ad4eb60",
+        "STORE_URL": "https://gassets.thunderzapper.xyz/store/3a981f5cb2739137",
+        "CLIENT_URL": "https://gassets.thunderzapper.xyz/static/ad44370a650793d9"
 }
 ```
 
